@@ -7,7 +7,7 @@
 Claude Codeで次を実行します。
 
 ```text
-/plugin marketplace add ChrisKasahara/shikumika-blog-images
+/plugin marketplace add masato-upset/shikumika-blog-images
 /plugin install shikumika-blog-images@shikumika-blog-images
 ```
 
