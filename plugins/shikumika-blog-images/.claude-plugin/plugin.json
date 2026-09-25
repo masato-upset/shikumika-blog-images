@@ -1,0 +1,8 @@
+{
+  "name": "shikumika-blog-images",
+  "version": "0.1.0",
+  "description": "シクミルの記事本文から、必要な挿入図を選定・生成し、具体的な挿入位置とalt案までまとめる。",
+  "author": {
+    "name": "シクミカ.ラボ"
+  }
+}
