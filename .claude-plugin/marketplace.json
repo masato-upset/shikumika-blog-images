@@ -11,7 +11,7 @@
       "name": "shikumika-blog-images",
       "source": "./plugins/shikumika-blog-images",
       "description": "記事本文から必要な説明用画像を選定・生成し、具体的な挿入位置とalt案まで提示する。",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "author": { "name": "シクミカ.ラボ" }
     }
   ]
